@@ -34,7 +34,7 @@
 # CMake
 build/
 
-*.pdf
+
 !handouts/imgs/*.pdf
 
 # Vscode related
